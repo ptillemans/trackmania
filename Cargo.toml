@@ -1,0 +1,9 @@
+[package]
+name = "trackmania"
+version = "0.1.0"
+authors = ["Peter Tillemans <pti@snamellit.com>"]
+
+[dependencies]
+regex = "1"
+chrono = "0.4"
+time = "0.1.40"
