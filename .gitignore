@@ -1,4 +1,8 @@
 
 /target/
 **/*.rs.bk
+<<<<<<< HEAD
 timeit.dat
+=======
+Cargo.lock
+>>>>>>> ae75ba45c42c863eb23336f8d5dcb70a3f032647

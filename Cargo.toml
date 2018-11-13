@@ -7,3 +7,4 @@ authors = ["Peter Tillemans <pti@snamellit.com>"]
 regex = "1"
 chrono = "0.4"
 time = "0.1.40"
+lazy_static = "*"
